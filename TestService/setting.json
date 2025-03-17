@@ -1,0 +1,7 @@
+{
+  "ThreadSetting": {
+    "max_workers": 5
+  },
+  "game_testcase_path": "F:\\AirTestDemo\\main.py",
+  "feishu_robot_notify_url": "https://open.feishu.cn/open-apis/bot/v2/hook/c03ef516-4abb-4360-9b6d-4422d94f6844"
+}
